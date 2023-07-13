@@ -1,0 +1,28 @@
+Started 13 July 2023
+By Lizzie
+
+* To keep the repo small, I suggest posting most refs in a separate location (google drive or such) and link to that here. * 
+
+List of refs relevant to this project:
+
+This project was started under a short paper Lizzie wrote in GCB. I explained it more detail in a blog post so I recommend that to start: 
+
+https://statmodeling.stat.columbia.edu/2021/08/12/climate-change-as-a-biological-accelerator/ 
+
+And ... 
+
+0) https://cran.r-project.org/web/packages/climwin/index.html
+
+1) van der Pol et al. 2016 "Identifying the best climatic predictors in ecology and evolution" https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12590 
+	This paper describes the method. 
+
+2) Bailey & van de Pol 2016 "climwin: An R Toolbox for Climate Window Analysis"  https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167980
+	This paper also describes the method. 
+
+3) Bailey et al. 2022 "Bird populations most exposed to climate change are less sensitive to climatic variation" https://www.nature.com/articles/s41467-022-29635-4
+	Recent high profile paper using the method
+
+4) Simmonds et al. 2019 "Cue identification in phenology: A case study of the predictive performance of current statistical tools" https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2656.13038
+
+5) Tredennick et al. 2021 "A practical guide to selecting models for exploration, inference, and prediction in ecology" Overview of relevant terms and a decent take on how ecologists 'do' this sort of science. 
+
